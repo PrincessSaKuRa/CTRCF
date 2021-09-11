@@ -14,7 +14,7 @@ CTRCheatLoaderFrameWork
 -----------------------------------
 ユーザーが分かりやすい名前に変えられます
 
-Base CTRPF 0.7.0 Thank YOU for CTRPF Dev.
+Base CTRPF 0.7.0 thanks for CTRPF Dev.
 -----------------------------------------
 
 オンにしたチートは右上に表示されます。 
